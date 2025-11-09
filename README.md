@@ -223,9 +223,6 @@ requirements.txt
 * Windows JSON quoting errors → prefer `--id/--command`.
 * Fresh start → stop workers, delete DB at `%USERPROFILE%\.queuectl\queue.db`, then `worker start`.
 
----
-
-
 
 
 
