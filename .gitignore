@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Virtual env
+.venv/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+
+# App artifacts
+*.db
+*.sqlite
+*.log
+.queuectl/
+videos/
+*.mp4
+
+# Env files
+.env
+.env.*
